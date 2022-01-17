@@ -1,5 +1,5 @@
 ---
 home: true
-title: Home Page
+title: 主页
 date: 2022-01-12
 ---
