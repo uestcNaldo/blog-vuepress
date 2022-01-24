@@ -3,6 +3,6 @@ import type { DefaultThemeOptions } from 'vuepress'
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: 'zh-CN',
-  title: '个人博客',
-  description: `Naldo's Personal Blog`
+  title: `Naldo's Blog`,
+  description: `欢迎来到我的博客`
 })

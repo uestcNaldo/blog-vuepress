@@ -4,23 +4,6 @@ title: 主页
 date: 2022-01-12
 ---
 
-# Dictionary
+> 不积跬步无以至千里，不积小流无以成江海。🌊
 
-- A
-- B
-- C
-- D
-- E
-- F
-
-* A list item with a blockquote:
-
-> this is blockquote.
-
-代码块:
-
-```javascript
-function test() {
-  console.log(123)
-}
-```
+![Background](./assets/image/home_sky_moon.webp)
